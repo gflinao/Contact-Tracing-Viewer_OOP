@@ -42,9 +42,9 @@ namespace Contact_Tracing_Viewer_OOP
             // 
             // rTBfield
             // 
-            this.rTBfield.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.rTBfield.BackColor = System.Drawing.Color.PaleGreen;
             this.rTBfield.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rTBfield.ForeColor = System.Drawing.Color.White;
+            this.rTBfield.ForeColor = System.Drawing.Color.Black;
             this.rTBfield.Location = new System.Drawing.Point(12, 121);
             this.rTBfield.Name = "rTBfield";
             this.rTBfield.Size = new System.Drawing.Size(323, 234);
