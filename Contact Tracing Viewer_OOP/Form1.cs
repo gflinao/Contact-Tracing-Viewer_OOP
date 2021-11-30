@@ -38,5 +38,15 @@ namespace Contact_Tracing_Viewer_OOP
         {
             rTBfield.Clear();
         }
+
+        private void lbltrace_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnlLbl_Paint(object sender, PaintEventArgs e)
+        {
+            pnlLbl.BackColor = Color.Transparent;
+        }
     }
 }
